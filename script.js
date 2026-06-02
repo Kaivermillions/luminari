@@ -11,7 +11,10 @@ function cancel(){
 const texts = [
     "Voice",
     "Cari Teman",
-    "Mabar"
+    "Mabar",
+    "Dengar Musik",
+    "Galau",
+    "Who Knows:)"
 ];
 
 let speed = 100;
