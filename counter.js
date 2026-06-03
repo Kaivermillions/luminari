@@ -22,6 +22,6 @@ var x = setInterval(function(){
     if(distance < 0)
     {
         clearInterval(x);
-        document.getElementById("demo").innerHTML = "Tunggu untuk mengaplikasikan website!";
+        document.getElementById("demo").innerHTML = "website akan segera menambahkan sesuatu.";
     }
 },1000);
