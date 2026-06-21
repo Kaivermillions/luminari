@@ -15,7 +15,7 @@ const texts = [
     "Dengar Musik",
     "Galau",
     "Best Friend",
-    "That Should Be Me",
+    "Just Friend",
     "Who Knows:)"
 ];
 
