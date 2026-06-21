@@ -1,5 +1,5 @@
 // set the date we are counting down
-var countDownDate = new Date("Juni 10, 2026 12:50:01").getTime();
+var countDownDate = new Date("Juli 2, 2026 12:50:01").getTime();
 
 //update the count every 1 sec
 var x = setInterval(function(){
@@ -22,6 +22,6 @@ var x = setInterval(function(){
     if(distance < 0)
     {
         clearInterval(x);
-        document.getElementById("demo").innerHTML = "website akan segera menambahkan sesuatu.";
+        document.getElementById("demo").innerHTML = "Happy Birthday For Someone With N Initials!.";
     }
 },1000);
